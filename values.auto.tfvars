@@ -1,4 +1,4 @@
-jx_git_url = "https://github.com/dineshgitbot/jx3-azure-akv.git"
+jx_git_url = "https://github.com/dineshtools/jx3-azure-akv.git"
 cluster_name = "dinesh-jx-lab"
 cluster_resource_group_name="jx3aksrg"
 apex_resource_group_name="jxdnsrg"
