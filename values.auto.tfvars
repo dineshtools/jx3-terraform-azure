@@ -7,4 +7,3 @@ apex_domain_name = "dineshpatil.net"
 jx_bot_username = "dineshazpatil"
 location = "eastus"
 cluster_version = "1.20.13"
-key_vault_enabled = false
